@@ -16,7 +16,7 @@ public class BasicArrays {
 //        }
 
 
-        int[] nums = new int[100];
+        int[] nums = new int[5];
 
         nums[0] = 100;
         nums[1] = 101;
