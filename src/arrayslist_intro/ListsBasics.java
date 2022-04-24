@@ -62,6 +62,28 @@ public class ListsBasics {
         System.out.println(lastBook);
 
 
+        List<Double> prices = new ArrayList<>();
+        prices.add(12.50);
+        prices.add(80.453);
+        prices.add(45.22);
+        prices.add(65.234);
+
+
+        System.out.println(prices);
+
+
+        List<Byte> bytes = new ArrayList<>();
+        bytes.add((byte) 1);
+
+
+        List<Character> chars = new ArrayList<>();
+        chars.add('A');
+        chars.add('B');
+        chars.add('C');
+        chars.add('D');
+
+        System.out.println(chars);
+        System.out.println(chars.get(1));
 
     }
 }
