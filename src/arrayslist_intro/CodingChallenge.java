@@ -30,7 +30,6 @@ public class CodingChallenge {
         System.out.println(list);
 
 
-
         /// [1,3,4,6,2,3,4,5,6,2,4]
     }
 }
