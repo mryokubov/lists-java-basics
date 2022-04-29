@@ -20,7 +20,6 @@ public class Main {
 
         List<Customer> customers = generateCustomers(); //list of 1000 customres
 
-
         Scanner scanner = new Scanner(System.in);
         System.out.println("WELCOME TO CUSTOMER MANAGEMENT PLATFORM");
         while (true){
